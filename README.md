@@ -7,4 +7,3 @@ Simple script to like and follow posts containing specific hashtags.
 - `selenium`
 - `webdriver`
 
-here is a recorded screen video of the bot => [instagram bot](https://drive.google.com/file/d/1I-2dCQd1UMX2MTeE7TYb-5ynf5DnSUEH/view?usp=sharing)
